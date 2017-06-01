@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3-mag-2017, 20.15.23
+    Author     : matteo.anoe
+*/
+#container{
+    background-color: lightgray;
+    display: inline-block;
+    border-radius: 15px;
+    height: 370px;
+    width: 310px;
+    border-width: 10px;
+    border-style: double;
+    border-color: #737373;
+}
+body{
+    color: blue;
+}
+button{
+    background-color: darkgray;
+    color: white;
+    font-size: 48px;
+    margin: 1px 2px 3px;
+    margin-left: 3px;
+    width: 70px;
+    height: 70px;
+    border: 2px solid;
+    border-radius: 25px;
+    border-color: #737373;
+    border-width: 5px;
+}
+#uguale{
+    background-color: red;
+}
+#piu, #meno, #per, #diviso{
+    color:mediumblue;
+    background-color: cyan;
+}
+#nega{
+    background-color: darkorange;
+}
+textarea{
+    margin: 3px 2px;
+    font-size: 48px;
+    width: 302px;
+    height: 60px;
+    text-align: right;
+    resize: none;
+    line-height: 55px;
+    background-color: whitesmoke;
+}
