@@ -1,2 +1,2 @@
-# Calcolatrice
-Non gestisce operazioni in cascata
+# Calcolatrice - Versione 2
+Gestisce operazioni in cascata
